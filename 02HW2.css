@@ -1,0 +1,46 @@
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: auto;
+    width: 150px;
+    height:auto;
+  }
+
+  .img1 {
+    border-radius: 4px;
+    padding: auto;
+    width: 20px;
+    height:auto;
+  }
+
+  input {
+    width: 100%;
+    margin: 2;
+  }
+
+  .bkgc{
+      background-color: grey;
+  }
+
+  .container{
+    border: 5px solid black;
+    display:grid;
+   
+  }
+  .row{
+    
+  }
+  div{
+    border:{
+        border:5px solid;
+    }
+  
+  .p{
+      padding-left: 15px;
+      padding-right:15px;
+      padding-top: 15;
+  }
+  footer{
+      grid-area: footer;
+      background:white;
+  }
