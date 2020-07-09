@@ -1,9 +1,9 @@
 img {
-    border: 1px solid #ddd;
-    border-radius: 4px;
-    padding: auto;
-    width: 150px;
-    height:auto;
+  float: left;
+  width: 250px;
+  height: 250px;
+  margin-right: 20px;
+  margin-bottom: 20px;
   }
 
   .img1 {
@@ -36,9 +36,7 @@ img {
     }
   
   .p{
-      padding-left: 15px;
-      padding-right:15px;
-      padding-top: 15;
+    padding: 20px;
   }
   footer{
       grid-area: footer;
