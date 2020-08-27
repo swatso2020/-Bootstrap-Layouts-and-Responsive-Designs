@@ -6,16 +6,34 @@ img {
   margin-bottom: 20px;
   }
 
+
+  section{
+    background-color:white;
+  }
+
   .img1 {
     border-radius: 4px;
     padding: auto;
     width: 20px;
     height:auto;
   }
+  .img2{
+    opacity: 0.3;
+    background-image
+  }
 
   input {
     width: 100%;
     margin: 2;
+  }
+  .hero-image {
+    background-image: 
+    background-color: #cccccc;
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
   }
 
   .bkgc{
@@ -31,12 +49,12 @@ img {
     
   }
   div{
-    border:{
         border:5px solid;
     }
   
   .p{
     padding: 20px;
+    text-align: left ;
   }
   footer{
       grid-area: footer;
